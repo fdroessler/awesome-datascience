@@ -99,7 +99,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## COLLEGES
 [top](#awesome-data-science)
 
-- [A list of colleges and universities offering degrees in data science. :star:139](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+- [:star:139 A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
 - [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 - [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
@@ -131,7 +131,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 - [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
 - [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
-- [Data Science Specialization :star:3792](https://github.com/DataScienceSpecialization/courses)
+- [:star:3792 Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 - [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 - [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 - [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
