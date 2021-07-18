@@ -11,6 +11,7 @@ jobs:
       - uses: fdroessler/awesome-stargazers@master
         env: 
           myReadme: README.md
+          NUM_REPLACEMENTS: 5
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
