@@ -8,9 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: stargazer
-        uses: fdroessler/awesome-stargazers@master
-        with: 
+      - uses: fdroessler/awesome-stargazers@master
+        env: 
           myReadme: README.md
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
