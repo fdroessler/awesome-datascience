@@ -2,6 +2,7 @@ name: Update Stargazer count
 on:
   schedule:
     - cron:  '0 9 * * SUN'
+  workflow_dispatch:
 jobs:
   update-dep:
     runs-on: ubuntu-latest
