@@ -99,7 +99,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## COLLEGES
 [top](#awesome-data-science)
 
-- [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+- [A list of colleges and universities offering degrees in data science. :star:140](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
 - [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 - [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
@@ -131,7 +131,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 - [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
 - [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
-- [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
+- [Data Science Specialization :star:3798](https://github.com/DataScienceSpecialization/courses)
 - [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 - [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 - [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
@@ -154,9 +154,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 [top](#awesome-data-science)
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on browser with ipyton.
-- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-- [Data science your way](https://github.com/jadianes/data-science-your-way)
-- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+- [#tidytuesday :star:3835](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+- [Data science your way :star:538](https://github.com/jadianes/data-science-your-way)
+- [PySpark Cheatsheet :star:134](https://github.com/kevinschaich/pyspark-cheatsheet)
 - [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 - [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
